@@ -262,6 +262,11 @@ export default {
       attributes: { disabled: true },
     },
     {
+      name: 'ApiData',
+      url: '/api-data',
+      icon: 'icon-star'
+    },
+    {
       name: 'Chat',
       url: '/chat',
       icon: 'icon-star'
