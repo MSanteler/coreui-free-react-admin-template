@@ -262,6 +262,11 @@ export default {
       attributes: { disabled: true },
     },
     {
+      name: 'Chat',
+      url: '/chat',
+      icon: 'icon-star'
+    },
+    {
       name: 'Download CoreUI',
       url: 'https://coreui.io/react/',
       icon: 'icon-cloud-download',
